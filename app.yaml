@@ -1,0 +1,11 @@
+application: gshortener
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /.*
+  script: gshortener.py
+
+inbound_services:
+- xmpp_message

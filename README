@@ -1,0 +1,6 @@
+Gshortener is IM bot writen in Python that can be running on the Google App Engine.
+
+The gshortener IM bot can turn a long URL into a much shorter one. Just add <gshortener@appspot.com> to your GoogleTalk or any other XMPP/Jabber IM buddy list, and send it a message with original URL only for short. When you added it you can open the chat and type /help for more information.
+
+Code license:
+Apache License 2.0(http://www.apache.org/licenses/LICENSE-2.0)
